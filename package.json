@@ -1,0 +1,33 @@
+{
+	"name": "line-bot",
+	"version": "1.0.0",
+	"description": "A simple line bot built using OpenAI's API. It allows users to interact with ChatGPT in the Line platform.",
+	"main": "index.js",
+	"scripts": {
+		"start": "node index.js",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [
+		"line",
+		"chat",
+		"AI",
+		"ChatGPT"
+	],
+	"author": "Amos Senkao <senkao.a@outlook.com>",
+	"license": "ISC",
+	"devDependencies": {
+		"@vercel/node": "^2.8.5",
+		"nodemon": "^2.0.20"
+	},
+	"dependencies": {
+		"@line/bot-sdk": "^7.5.2",
+		"axios": "^1.2.2",
+		"dotenv": "^16.0.3",
+		"express": "^4.18.2",
+		"mongoose": "^7.3.1",
+		"openai": "^3.3.0"
+	},
+	"engines": {
+		"node": "18.x"
+	}
+}
