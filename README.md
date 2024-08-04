@@ -36,11 +36,10 @@ npm run start
 
 ## Author
 
-👤 **Amos Senkao <senkao.a@outlook.com>**
+👤 **Amos Senkao
 
-- Website: https://www.linkedin.com/in/amos-senkao/
+- Frontend Mentor: https://www.frontendmentor.io/profile/Amossenkao
 - Github: [@Amossenkao](https://github.com/Amossenkao)
-- LinkedIn: [@amos-senkao](https://linkedin.com/in/amos-senkao)
 
 ## Show your support
 
